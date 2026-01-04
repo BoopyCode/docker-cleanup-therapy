@@ -1,0 +1,2 @@
+# Just Docker and a willingness to let go
+# No Python dependencies - it's bash therapy!
